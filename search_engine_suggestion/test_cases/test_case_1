@@ -1,0 +1,14 @@
+Input:
+5
+mouse
+mobile
+moneypot
+mousepad
+monitor
+mouse
+
+Expected Output:
+[ "mobile", "moneypot", "monitor"]
+[ "mouse", "mousepad"]
+[ "mouse", "mousepad"]
+[ "mouse", "mousepad"]
