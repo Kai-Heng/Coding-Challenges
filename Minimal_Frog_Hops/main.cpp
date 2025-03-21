@@ -11,7 +11,8 @@ using namespace std;
 long long getSecondsRequired(long long N, int F, vector<long long> P) {
     // Write your code here
     long long mn = *min_element(P.begin(), P.end());
-  
+    
+    // Returns (N - minimum frog position)
     return N - mn;
 
 
