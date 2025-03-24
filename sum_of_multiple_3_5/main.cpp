@@ -16,6 +16,7 @@ long long sum_of_multiples(int num, int n){
 
 int sum_of_3_5(int n){
     // O(log n)
+    /** 
     int sum = 0;
     int left = 1;
     int right = n-1;
@@ -38,6 +39,9 @@ int sum_of_3_5(int n){
         right--;
     }
 
+    return sum;
+    */
+
     // O(1)
     long long sum3 = sum_of_multiples(3, n);
     long long sum5 = sum_of_multiples(5, n);
@@ -45,5 +49,4 @@ int sum_of_3_5(int n){
 
     
     return sum3 + sum5 - sum15;
-    return sum;
 }
