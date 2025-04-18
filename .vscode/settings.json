@@ -13,6 +13,7 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "map": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "deque": "cpp"
     }
 }
