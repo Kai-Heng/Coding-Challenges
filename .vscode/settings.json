@@ -14,6 +14,7 @@
         "ostream": "cpp",
         "map": "cpp",
         "cmath": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "bitset": "cpp"
     }
 }
