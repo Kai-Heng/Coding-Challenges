@@ -16,6 +16,8 @@
         "cmath": "cpp",
         "deque": "cpp",
         "bitset": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "__tree": "cpp",
+        "set": "cpp"
     }
 }
