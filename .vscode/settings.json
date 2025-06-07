@@ -18,6 +18,7 @@
         "bitset": "cpp",
         "fstream": "cpp",
         "__tree": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "regex": "cpp"
     }
 }
