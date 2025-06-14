@@ -19,6 +19,7 @@
         "fstream": "cpp",
         "__tree": "cpp",
         "set": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "queue": "cpp"
     }
 }
