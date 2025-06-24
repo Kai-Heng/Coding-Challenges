@@ -20,6 +20,7 @@
         "__tree": "cpp",
         "set": "cpp",
         "regex": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "sstream": "cpp"
     }
 }
